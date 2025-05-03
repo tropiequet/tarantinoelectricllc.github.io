@@ -33,7 +33,7 @@ header {
 
 .header-text h2.subheader {
   margin: 0;
-  font-size: 1.0rem; /* Smaller size for the subheader */
+  font-size: 0.75rem; /* Smaller size for the subheader */
   font-weight: 600;
   color: #000;
   border: none; /* Remove any border */
@@ -41,7 +41,8 @@ header {
 
 .header-text h3.subheader {
   margin: 0;
-  font-size: 1.0rem; /* Smaller size for the subheader */
+  margin-top: 5px; /* Reduce the space between the h3 and h2 */
+  font-size: 0.75rem; /* Smaller size for the subheader */
   font-weight: 600;
   color: #000;
   border: none; /* Remove any border */
