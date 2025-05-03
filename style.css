@@ -8,20 +8,20 @@ body {
 header {
   background-color: #d19d2c;
   display: flex;
-  align-items: center;
+  align-items: center; /* Vertically center content within header */
   padding: 2px;
 }
 
 .logo {
   width: 150px;
   height: auto;
-  margin-right: 2px;
+  margin-right: 20px; /* Space between logo and text */
 }
 
 .header-text {
   display: flex;
   flex-direction: column; /* Stack h1 and p vertically */
-  justify-content: flex-start; /* Vertically centers the text within header-text */
+  justify-content: center; /* Vertically center h1 with the logo */
 }
 
 .header-text h1 {
@@ -29,7 +29,7 @@ header {
   font-size: 3rem;
   color: #000;
   display: flex;
-  align-items: center; /* Vertically centers h1 text */
+  align-items: center; /* Vertically center h1 text */
 }
 
 .header-text p {
