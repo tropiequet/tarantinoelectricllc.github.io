@@ -9,13 +9,13 @@ header {
   background-color: #d19d2c;
   display: flex;
   align-items: center;
-  padding: 5px;
+  padding: 2px;
 }
 
 .logo {
   width: 250px;
   height: auto;
-  margin-right: 2px;
+  margin-right: 0px;
 }
 
 .header-text h1 {
