@@ -33,14 +33,14 @@ header {
 
 .header-text h2.subheader {
   margin: 0;
-  font-size: 1.5rem; /* Smaller size for the subheader */
+  font-size: 0.5rem; /* Smaller size for the subheader */
   font-weight: 600;
   color: #000;
 }
 
 .header-text h3.subheader {
   margin: 0;
-  font-size: 1.5rem; /* Smaller size for the subheader */
+  font-size: 0.5rem; /* Smaller size for the subheader */
   font-weight: 600;
   color: #000;
 }
