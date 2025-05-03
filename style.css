@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: #000;
   color: #f5b335;
 }
@@ -22,10 +22,6 @@ header {
   display: flex;
   flex-direction: column; /* Stack h1 and p vertically */
   justify-content: center; /* Vertically center h1 with the logo */
-}
-
-.header-text h1, .header-text p {
-  font-family: 'Montserrat', sans-serif; /* Apply Montserrat Extra Bold */
 }
 
 .header-text h1 {
