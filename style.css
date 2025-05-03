@@ -44,9 +44,9 @@ main::before {
   height: 100%;
   background-image: url('TARANTINO ELECTRIC.png');
   background-position: center;
-  background-size: 150%; /* or 'cover' */
+  background-size: 100%; /* or 'cover' */
   background-repeat: no-repeat;
-  opacity: 0.3; /* Adjust transparency here */
+  opacity: 0.2; /* Adjust transparency here */
   z-index: -1; /* Put behind main content */
   pointer-events: none; /* So it doesn’t block clicks */
 }
