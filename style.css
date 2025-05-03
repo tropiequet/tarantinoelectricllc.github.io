@@ -22,6 +22,7 @@ header {
   display: flex;
   flex-direction: column; /* Stack h1 and p vertically */
   justify-content: center; /* Vertically center h1 with the logo */
+  padding-top: 20px; /* Add padding to move text content down */
 }
 
 .header-text h1 {
@@ -33,6 +34,7 @@ header {
 
 .header-text h2.subheader {
   margin: 0;
+  margin-bottom: 0px;
   font-size: 0.75rem; /* Smaller size for the subheader */
   font-weight: 600;
   color: #000;
