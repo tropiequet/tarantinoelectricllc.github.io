@@ -22,7 +22,7 @@ header {
   display: flex;
   flex-direction: column; /* Stack h1 and p vertically */
   justify-content: center; /* Vertically center h1 with the logo */
-  padding-top: 25px; /* Add padding to move text content down */
+  padding-top: 30px; /* Add padding to move text content down */
 }
 
 .header-text h1 {
