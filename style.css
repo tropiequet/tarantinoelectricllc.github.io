@@ -37,6 +37,7 @@ header {
 
 .header-text p {
   margin: 5px 0 0;
+  font-weight: 800; /* Montserrat Semi Bold */
   color: #000;
 }
 
