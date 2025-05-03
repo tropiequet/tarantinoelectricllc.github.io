@@ -21,7 +21,9 @@ header {
 .header-text {
   display: flex;
   flex-direction: column; /* Stack h1 and p vertically */
-  justify-content: center; /* Vertically center h1 with the logo */
+  justify-content: center; /* Vertically center text relative to the header */
+  align-items: center; /* Center content horizontally */
+  height: 100%; /* Ensure the header's height is fully used */
 }
 
 .header-text h1 {
